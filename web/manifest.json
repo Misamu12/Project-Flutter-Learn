@@ -1,6 +1,6 @@
 {
-    "name": "flutter_learn",
-    "short_name": "flutter_learn",
+    "name": "app_mobile",
+    "short_name": "app_mobile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
